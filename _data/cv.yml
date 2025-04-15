@@ -2,96 +2,152 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Camille Godbillot
+    - name: Disciplines
+      value: Paleoceanography, plankton ecology, micropaleontology
     - name: Languages
-      value: English, German
-
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+      value: French, English, Spanish
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral researcher, DEEP-UP Project (as PI)
+      institution: Institut de Recherche pour le Développement, Aix-en-Provence, France
+      year: 2023-10 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+        #- Phytoplankton sensitivity to environmental changes in the Humboldt system
+        #- Development of low-cost classification solutions
+        #- title: Description 3.
+          #contents:
+            #- Sub-description 1.
+            #- Sub-description 2.
+    - title: Postdoctoral researcher, RapMed Project
+      institution: Aix-Marseille Université, Aix-en-Provence, France
+      year: 2022-05 - 2023-09
+      #description:
+        #- Multivariate analyses
+        #- Deep-Learning
+- title: Education
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: PhD in Paleoceanography
+      institution: Sorbonne Université, Paris, France
+      year: 2022
+      #description:
+        #- Description 1.
+        #- Description 2.
+        #- title: Description 3.
+          #contents:
+            #- Sub-description 1.
+            #- Sub-description 2.
+    - title: Masters degree in Geosciences
+      institution: Sorbonne Université, Paris, France
+      year: 2018
+  
+- title: Student supervision
+  type: time_table
+  contents:
+    - title: Guilhem Le Bars (2 months, main supervisor)
+      year: 2025
+      description:
+        - <small>Automated analyses of SEM images for the study of the impact of El Niño on phytoplankton communities</small>
+
+    - title: Mathias Ageron (5 months, co-supervisor)
+      year: 2024
+      description:
+        - <small>Automated analyses of foraminifera test chambers and application to Mediterranean sapropels </small>
+
+    - title: Baptiste Pesenti (5 months, main supervisor)
+      year: 2023
+      description:
+        - <small>Coccolithophore sensitivity to Mediterranean environmental changes - a sediment trap series 2010-2020</small>
+
+    - title: Tobias Walla (2 months, co-supervisor)
+      year: 2023
+      description:
+        - <small>Development of automated solutions for the analysis of benthic foraminifera in biomonitoring studies</small>
+
+
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - Allocation chercheurs de la ville de Marseille
 
-- title: Academic Interests
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Topic 1.
+#      items:
+#        - Description 1.
+#        - Description 2.
+#    - title: Topic 2.
+#      items:
+#        - Description 1.
+#        - Description 2.
+
+- title: Funded projects (ongoing)
+  type: time_table
+  contents:
+    - title: DEEP-UP postdoctoral fellowship, IRD (2 years, PI)
+      year: 2023-2025
+      description:
+        - <small>This project explores the effects of environmental changes on the phytoplankton community structure of the Humboldt system</small>
+        - <small>In collaboration with IMARPE (Callao, Peru), MIO (Marseille, France)</small>
+    - title: Microfluidics and Micromanipulations (MiMi), CEREGE internal call for projects (5 k€, PI)
+      year: 2025
+      description:
+        - <small>Exploratory study to assess the potential for microfluidic technology to achieve microfossil extraction from a sediment or culture residues</small>
+        - <small>In collaboration with FEMTO-ST (Besançon)</small>
+
+- title: Funded projects (past)
+  type: time_table
+  contents:
+    - title: APIC DEEP-UP, CEREGE internal call for projects (6.5 k€, PI)
+      year: 2024
+      description:
+        - <small>Funded a two-month visit at IMARPE (Callao, Peru) and a low-cost scanning device </small>
+        - <small>In collaboration with IMARPE (Callao, Peru)</small>
+    - title: Doctoral fellowship, Sorbonne Université (3 years)
+      year: 2018-2021
+      description:
+        - <small>This project explored the potential for coccolith stable isotope geochemistry to record past atmospheric CO2 concentrations </small>
+
+- title: Publications
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: <small>2024</small>
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - '<small><b>Godbillot, C.</b>, Marchant, R., Beaufort, L., Leblanc, K., Gally, Y., Le, T. D. Q., Chevalier, C., & De Garidel‐Thoron, T. (2024). A New Method for the Detection of Siliceous Microfossils on Sediment Microscope Slides Using Convolutional Neural Networks. Journal of Geophysical Research: Biogeosciences, 129(9), e2024JG008047. <a href="https://doi.org/10.1029/2024JG008047">DOI</a></small>'
 
-- title: Other Interests
+    - title: <small>2022</small>
+      items:
+        - '<small><b>Godbillot, C.</b>, Minoletti, F., Bassinot, F., & Hermoso, M. (2022). Parallel between the isotopic composition of coccolith calcite and carbon levels across Termination II: developing a new paleo-CO2 probe. Climate of the Past, 18(3), 449–464. <a href="https://doi.org/10.5194/cp-18-449-2022">DOI</a></small>'
+        - '<small>Jentzer, M., Agard, P., Bonnet, G., Monié, P., Fournier, M., Whitechurch, H., Omrani, J., Zarrinkoub, M. H., Khatib, M. M., Kohansal, R., Do Couto, D., <b>Godbillot, C.</b>, & Ninkabou, D. (2022). The North Sistan orogen (Eastern Iran): Tectono-metamorphic evolution and significance within the Tethyan realm. Gondwana Research, 109, 460–492. <a href="https://doi.org/10.1016/j.gr.2022.04.004">DOI</a></small>'
+
+
+    - title: <small>2021</small>
+      items:
+        - '<small>Mouchi, V., <b>Godbillot, C.</b>, Dupont, C., Vella, M., Forest, V., Ulianov, A., Lartaud, F., de Rafélis, M., Emmanuel, L., & Verrecchia, E. P. (2021). Provenance study of oyster shells by LA-ICP-MS. Journal of Archaeological Science, 132(May), 105418. <a href="https://doi.org/10.1016/j.jas.2021.105418">DOI</a></small>'
+
+    - title: <small>2020</small>
+      items:
+        - '<small>Mouchi, V., <b>Godbillot, C.</b>, Forest, V., Ulianov, A., Lartaud, F., De Rafélis, M., Emmanuel, L., & Verrecchia, E. P. (2020). Rare earth elements in oyster shells: Provenance discrimination and potential vital effects. Biogeosciences, 17(8), 2205–2217. <a href="https://doi.org/10.5194/bg-17-2205-2020">DOI</a></small>'
+
+
+        - '<small>Hermoso, M., <b>Godbillot, C.</b>, & Minoletti, F. (2020). Enhancing Our Palaeoceanographic Toolbox Using Paired Foraminiferal and Coccolith Calcite Measurements From Pelagic Sequences. Frontiers in Earth Science, 8(February), 1–5. <a href="https://doi.org/10.3389/feart.2020.00038">DOI</a></small>'
+
+
+
+
+- title: Reviewer activity
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <b>Reviews:</b> Geochimica and Cosmochimica Acta, Geo-Marine Letters, AI in Geosciences
+
+#- title: Other Interests
+#  type: list
+#  contents:
+#    - <b>Hobbies:</b> The great outdoors
