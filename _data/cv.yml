@@ -6,7 +6,7 @@
     - name: Disciplines
       value: Paleoceanography, plankton ecology, micropaleontology
     - name: Languages
-      value: French, English, Spanish
+      value: French, English, basic Spanish
 
 - title: Experience
   type: time_table
@@ -61,12 +61,6 @@
       year: 2023
       description:
         - <small>Coccolithophore sensitivity to Mediterranean environmental changes - a sediment trap series 2010-2020</small>
-
-    - title: Tobias Walla (2 months, co-supervisor)
-      year: 2023
-      description:
-        - <small>Development of automated solutions for the analysis of benthic foraminifera in biomonitoring studies</small>
-
 
 
 - title: Honors and Awards
