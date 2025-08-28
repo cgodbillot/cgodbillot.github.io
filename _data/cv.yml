@@ -68,7 +68,7 @@
   contents:
     - year: 2022
       items:
-        - Allocation chercheurs de la ville de Marseille
+        - Recipient of the City of Marseille's grant for young researchers (2022)
 
 #- title: Academic Interests
 #  type: nested_list
@@ -112,6 +112,10 @@
 - title: Publications
   type: nested_list
   contents:
+    - title: <small>2025</small>
+      items:
+        - '<small><b>Godbillot, C.</b>, Pesenti, B., Leblanc, K., Beaufort, L., Chevalier, C., Di Pane, J., Durrieu De Madron, X., & De Garidel‐Thoron, T. (2025). Contrasting Trends in Phytoplankton Diversity, Size Structure, and Carbon Burial Efficiency in the Mediterranean Sea Under Shifting Environmental Conditions. Journal of Geophysical Research: Oceans, 130(8), e2025JC022486. <a href="https://doi.org/10.1029/2025JC022486">DOI</a></small>'      
+    
     - title: <small>2024</small>
       items:
         - '<small><b>Godbillot, C.</b>, Marchant, R., Beaufort, L., Leblanc, K., Gally, Y., Le, T. D. Q., Chevalier, C., & De Garidel‐Thoron, T. (2024). A New Method for the Detection of Siliceous Microfossils on Sediment Microscope Slides Using Convolutional Neural Networks. Journal of Geophysical Research: Biogeosciences, 129(9), e2024JG008047. <a href="https://doi.org/10.1029/2024JG008047">DOI</a></small>'
