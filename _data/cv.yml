@@ -11,9 +11,19 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Postdoctoral researcher in the BioIndicIA Project (ANR)
+      institution: CNRS, Aix-en-Provence, France
+      year: 2025-10 - Present
+      description:
+        #- Phytoplankton sensitivity to environmental changes in the Humboldt system
+        #- Development of low-cost classification solutions
+        #- title: Description 3.
+          #contents:
+            #- Sub-description 1.
+            #- Sub-description 2.
     - title: Postdoctoral researcher, DEEP-UP Project (as PI)
       institution: Institut de Recherche pour le Développement, Aix-en-Provence, France
-      year: 2023-10 - Present
+      year: 2023-10 - 2025-09
       description:
         #- Phytoplankton sensitivity to environmental changes in the Humboldt system
         #- Development of low-cost classification solutions
@@ -82,7 +92,13 @@
 #        - Description 1.
 #        - Description 2.
 
-- title: Funded projects (ongoing)
+#- title: Funded projects (ongoing)
+#  type: time_table
+#  contents:
+
+
+#- title: Funded projects (past)
+- title: Funded projects
   type: time_table
   contents:
     - title: DEEP-UP postdoctoral fellowship, IRD (2 years, PI)
@@ -95,10 +111,6 @@
       description:
         - <small>Exploratory study to assess the potential for microfluidic technology to achieve microfossil extraction from a sediment or culture residues</small>
         - <small>In collaboration with FEMTO-ST (Besançon)</small>
-
-- title: Funded projects (past)
-  type: time_table
-  contents:
     - title: APIC DEEP-UP, CEREGE internal call for projects (6.5 k€, PI)
       year: 2024
       description:

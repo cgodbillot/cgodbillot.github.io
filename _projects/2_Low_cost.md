@@ -12,9 +12,9 @@ related_publications: true
 
 __A. Deep-learning solutions for automatic planktonic identification__
 
-Convolutional neural networks are growing increasingly used in geosciences. Their use provides a means of generating standardised, reproducible datasets for plankton assemblages and size structure, and of increasing the spatial and temporal resolution of plankton studies. 
+Convolutional neural networks are growing increasingly used in geosciences. Their use provides a means of generating standardised, reproducible datasets for plankton assemblages and size structure, and of increasing the spatial and temporal resolution of plankton observations. 
 
-Within [the MANTA team at CEREGE](https://github.com/microfossil), I am developing high throughput workflows for plankton detection and classifications, to be used for coastal biomonitoring and paleoceanographic studies. 
+Within [the MANTA team at CEREGE](https://github.com/microfossil), I am developing high throughput workflows for plankton detection, classification, and segmentation, to be used for coastal biomonitoring and paleoceanographic studies. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -45,4 +45,5 @@ The simple solution for image acquisition presented here is being tested for its
 
 
 {% nocite godbillot_new_2024 %}
+{% nocite walla_identification_2026 %}
 
