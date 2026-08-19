@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "For any questions, feel free to contact me :)",
+          description: "I have had the pleasure of participating in a variety of studies over the years, presented below in their published form.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
