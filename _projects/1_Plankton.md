@@ -19,7 +19,7 @@ My research has focused on constraining how climate change affects phytoplankton
     </div>
 </div>
 <div class="caption">
-    In the NW Mediterranean Sea, two neighbouring sites show contrasting trends in phytoplankton compositional changes between 2010 and 2018. Cocolith-derived POC is shown in yellow and diatom-derived POC in green. When the deep sea is disconnected from the surface, the fluxes of biological particles decreases. The increasing proportion of siliceous species in the Gulf of Lion partially offsets the decreasing storage of carbon at depth. Figure from Godbillot et al. JGRO 2025. 
+    In the NW Mediterranean Sea, two neighbouring sites show contrasting trends in phytoplankton compositional changes between 2010 and 2018. Coccolith-derived POC is shown in yellow and diatom-derived POC in green. When the deep sea is disconnected from the surface, the fluxes of biological particles decreases. The increasing proportion of siliceous species in the Gulf of Lion partially offsets the decreasing storage of carbon at depth. Figure from Godbillot et al. JGRO 2025. 
 </div>
 
 {%nocite Godbillot_2025 %}
